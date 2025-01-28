@@ -1,0 +1,20 @@
+we are going to in this project:
+-Build a product analytics dashboard
+workflow
+build a database->insert in PowerBI-> Build a dashboard
+
+-----Everything we need------
+Work Flow:
+1.Build A Database
+2.Write SQL queries
+3.Connect to Data Viz Tool
+4. Create Dashboard
+
+=====Tools We Will Use=====
+-Excel Document
+-Microsoft SQL server
+-PowerBI
+
+1.Building Our Database
+Create a new database called "product_sales"
+-databases->new database->Name:Product_Sales
